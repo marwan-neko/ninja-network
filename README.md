@@ -1,0 +1,1 @@
+A beginner Laravel project to learn the framework
